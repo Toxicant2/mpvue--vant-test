@@ -16,6 +16,7 @@
       "van-icon": "/static/vant/icon/index",
       "van-panel": "/static/vant/panel/index",
       "van-action-sheet": "/static/vant/cell-group/index",
+      "van-switch-cell": "/static/vant/switch-cell/index",
       "van-area": "/static/vant/area/index",
       "van-dialog": "/static/vant/dialog/index"
     }

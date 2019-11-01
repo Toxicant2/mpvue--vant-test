@@ -5,7 +5,7 @@
             <open-data type="userNickName" lang="zh_CN"></open-data>
             <open-data type="userGender" lang="zh_CN"></open-data>
         </div>
-        <van-search :value="value" placeholder="请输入搜索关键词1111" />
+        <van-search :value="value" placeholder="请输入搜索关键词" />
     </div>
 </template>
 
